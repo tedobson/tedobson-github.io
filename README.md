@@ -12,6 +12,11 @@ The goal of this project was to create three different card games. The most diff
 
 
 
+
+
+
+
+
 Adventure Game, WPF Project -
 
 
@@ -22,7 +27,7 @@ Adventure Game, WPF Project -
 
 
 
-Creatures Demo -
+Creatures Demo - https://github.com/tedobson/Creature-Demo
 ![image](https://github.com/user-attachments/assets/4ea1efa0-b12e-4821-ac28-1e2a79f113b2)
 ![image](https://github.com/user-attachments/assets/d5691f2f-9900-477d-b818-e5ff8858b43c)
 
