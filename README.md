@@ -20,5 +20,10 @@ Adventure Game, WPF Project -
 
 
 
+
+
+Creatures Demo -
 ![image](https://github.com/user-attachments/assets/4ea1efa0-b12e-4821-ac28-1e2a79f113b2)
 ![image](https://github.com/user-attachments/assets/d5691f2f-9900-477d-b818-e5ff8858b43c)
+
+The goal of this was to learn how to use interfaces and enums, while also reviewing derived classes. 
