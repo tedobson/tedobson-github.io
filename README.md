@@ -8,3 +8,17 @@ Card Game Project - https://github.com/tedobson/Dobson_Project-2_Framework
 
 
 The goal of this project was to create three different card games. The most difficult game being the Highest match game(Game C), where the player goes against the dealer. I spent a lot of time trying to get the player and dealer hands to work, while also being able to replace the cards.
+
+
+
+
+Adventure Game, WPF Project -
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4ea1efa0-b12e-4821-ac28-1e2a79f113b2)
+![image](https://github.com/user-attachments/assets/d5691f2f-9900-477d-b818-e5ff8858b43c)
