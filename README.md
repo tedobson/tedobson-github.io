@@ -1,4 +1,4 @@
-# tedobson-github.io
+# tedobson.github.io
 Tyler Dobson - Programming Portfolio
 
 
