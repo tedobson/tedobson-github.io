@@ -25,6 +25,8 @@ The goal of this project was to showcase everything that I had learned so far in
 
 
 Ordle WPF - https://github.com/tedobson/OrdleWPF
+
+
 ![Screenshot 2025-05-05 200626](https://github.com/user-attachments/assets/31a79e30-180f-478c-bcde-692da40697cc)
 
 
