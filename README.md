@@ -20,7 +20,10 @@ The goal of this project was to create three different card games. The most diff
 Adventure Game, WPF Project -
 
 
-The goal of this project was to showcase everything that I had learned so far in C# and WPF.
+The goal of this project was to showcase everything that I had learned so far in C# and WPF. The hardest thing for me was to get the npc inventory as a data binding, that the player could trade with.
+
+
+
 
 
 
@@ -29,6 +32,7 @@ Ordle WPF - https://github.com/tedobson/OrdleWPF
 
 ![Screenshot 2025-05-05 200626](https://github.com/user-attachments/assets/31a79e30-180f-478c-bcde-692da40697cc)
 
+The goal of this was to get refamiliarize myself with WPF again. It was interesting learning how to navigate through the different pages, and the different properties you could use on buttons and text boxes.
 
 Creatures Demo - https://github.com/tedobson/Creature-Demo
 ![image](https://github.com/user-attachments/assets/4ea1efa0-b12e-4821-ac28-1e2a79f113b2)
