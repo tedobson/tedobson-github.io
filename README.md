@@ -17,10 +17,13 @@ The goal of this project was to create three different card games. The most diff
 
 
 
-Adventure Game, WPF Project -
+Project 3, WPF Project - https://github.com/tedobson/Dobson_Project-3
+![Screenshot 2025-05-08 212204](https://github.com/user-attachments/assets/7f43f249-d7b7-4621-9b4a-70865c23be41)
+![Screenshot 2025-05-08 212223](https://github.com/user-attachments/assets/af0f9f90-2650-4507-9ed4-2d06f725a3d1)
+![Screenshot 2025-05-08 212303](https://github.com/user-attachments/assets/13391bcf-a1f9-49b5-ae82-8f45386fe71d)
 
 
-The goal of this project was to showcase everything that I had learned so far in C# and WPF. The hardest thing for me was to get the npc inventory as a data binding, that the player could trade with.
+The goal of this project was to showcase everything that I had learned so far in C# and WPF. The hardest thing for me was to get the methods for searching the player's information or inventory to be printed on the screen.
 
 
 
@@ -43,3 +46,4 @@ The goal of this was to learn how to use interfaces and enums, while also review
 
 Event Demo - https://github.com/tedobson/Event-Demo
 ![image](https://github.com/user-attachments/assets/b112dc28-359b-4fec-aada-f4359856889e)
+This Demo was to learn how to use events in C#.
